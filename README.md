@@ -9,6 +9,7 @@
 - 학습 데이터셋: Dataset
 - 테스트셋: Test
 - 학습 raw data: Unlabeled dataset
+- 서비스 제공 백엔드/프론트엔드: https://github.com/dripcharacter/AI_Project_DataVision.git
 
 * 주어진 두 개의 ipynb를 제외한 노트북은 사용되지 않음(중간 코드 or 다른 코드)
  
